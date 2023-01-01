@@ -1,0 +1,120 @@
+[
+    {
+        "id":1,
+        "title": "Nước ngoài",
+        "author": "Phan Mạnh Quỳnh",
+        "edition": "",
+        "category":"Phan Mạnh Quỳnh",
+        "desctiption": "Mẹ ơi con mới xong việc, đã lâu con chưa gọi về / Nhà ta thế nào, Cha có đỡ đau ốm hơn không ? / Mùa đông đã sang rồi, mẹ nhóm than ấm cha ngồi để vơi gió rét bên trời. / Mẹ bên đây tuyết rơi nhiều, lê chân về sau ca chiều / Ở nơi xứ người cũng may sống chung mấy anh em...",
+        "link":"../assets/hp.jpg"
+    },
+    {
+        "title": "Nơi ấy con tìm về",
+        "author": "Phan Mạnh Quỳnh",
+        "edition": "",
+        "id":2, 
+        "category":"Phan Mạnh Quỳnh",      
+        "desctiption": "Ngày con cất tiếng khóc chào đời / Ngày mẹ đã nói niềm vui trào dâng ngập trời / Mang yêu thương của cha đã dành / Để trong mái ấm từng ngày qua con lớn lên...",
+        "link":"../assets/hp.jpg"
+
+    },
+    {
+        "title": "Điều anh biết",
+        "author": "Chi Dân",
+        "edition": "",
+        "id":3,
+        "category":"Chi Dân",
+        "desctiption":"Anh không biết nhiêu sao trên trời / Anh không biết cuộc đời mai ra sao / Dù gian lao, dù ra sao thì anh vẫn luôn có / Có một người luôn bên cạnh anh mãi thôi. / Anh không biết yêu em sao cho vừa...",
+        "link":"../assets/hp.jpg"
+    },
+    {
+        "title": "1 2 3 4",
+        "author": "Chi Dân",
+        "edition": "",
+        "id":4,
+        "category":"Chi Dân",
+        "desctiption":"Ngày mình chia tay, em đã nói đôi ta sẽ không hoà hợp / Ngày mình chia tay, em đã nói em không xứng đáng với anh / Một, hai, ba, bốn, em có lắm lý do để ta xa rời / Thật ra em có một người mới...",
+        "link":"../assets/hp.jpg"
+    },
+    {
+        "title": "Tìm lại bầu trời",
+        "author": "Tuấn Hưng",
+        "edition": "",
+        "id":5,
+        "category":"Tuấn Hưng",
+        "desctiption":"Anh khóc vì giờ đây anh đã mất em rồi / Anh khóc vì giờ đây em đã xa thật rồi / Anh nhớ lời hẹn ước ta không xa rời / Mà giờ đây sao chỉ anh lẻ loi...",
+        "link":"../assets/hp.jpg"
+    },
+    {
+        "title": "Giật mình trong đêm",
+        "author": "Tuấn Hưng",
+        "edition": "",
+        "id":6,
+        "category":"Tuấn Hưng",
+        "desctiption":"Giật mình trong đêm khuya / Giữa giấc mơ êm đềm / Lại đang thấy dáng em / Đi cùng anh như lúc xưa / Giật mình trong đêm khuya / Khi ánh trăng chưa tàn / Chợt nhận ra, mình đã xa lâu rồi...",
+        "link":"../assets/hp.jpg"
+    },
+    {
+        "title": "Nơi này có anh",
+        "author": "Sơn Tùng",
+        "edition": "",
+        "id":7,
+        "category":"Sơn Tùng",
+        "desctiption":"Em là ai từ đâu bước đến nơi đây dịu dàng chân phương / Em là ai tựa như ánh nắng ban mai ngọt ngào trong sương / Ngắm em thật lâu / Con tim anh yếu mềm / Đắm say từ phút đó / Từng giây trôi yêu thêm...",
+        "link":"../assets/hp.jpg"
+    },
+    {
+        "title": "Em của ngày hôm qua",
+        "author": "Sơn Tùng",
+        "edition": "",
+        "id":8,
+        "category":"Sơn Tùng",
+        "desctiption":"Liệu rằng chia tay trong em có quên được câu ca / Tình yêu khi xưa em trao cho anh đâu nào phôi pha / Đừng lừa dối con tim anh em sẽ không buông tay anh được đâu mà...",
+        "link":"../assets/hp.jpg"
+    },
+    {
+        "title": "Vui Xuân",
+        "author": "Lê Nam",
+        "edition": "",
+        "id":9,
+        "category":"Lê Nam",
+        "desctiption":"Bài hát chưa được cập nhật.",
+        "link":"../assets/hp.jpg"
+    },
+    {
+        "title": "Về Nhà",
+        "author": "Lê Nam",
+        "edition": "",
+        "id":10,
+        "category":"Lê Nam",
+        "desctiption":"Bài hát chưa được cập nhật.",
+        "link":"../assets/hp.jpg"
+    },
+    {
+        "title": "Chuyến đi xa",
+        "author": "Lê Nam",
+        "edition": "",
+        "id":11,
+        "category":"Lê Nam",
+        "desctiption":"Bài hát chưa được cập nhật.",
+        "link":"../assets/hp.jpg"
+    },
+    {
+        "title": "Bão giông",
+        "author": "Lê Nam",
+        "edition": "",
+        "id":12,
+        "category":"Lê Nam",
+        "desctiption":"Bài hát chưa được cập nhật.",
+        "link":"../assets/hp.jpg"
+    },
+    {
+        "title": "Lá vàng",
+        "author": "Lê Nam",
+        "edition": "",
+        "id":13,
+        "category":"Lê Nam",
+        "desctiption":"Bài hát chưa được cập nhật.",
+        "link":"../assets/hp.jpg"
+    }
+]
